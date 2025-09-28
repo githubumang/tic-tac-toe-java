@@ -1,18 +1,57 @@
-## Getting Started
+# Tic Tac Toe (Java Swing)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A simple **Tic Tac Toe game** built in **Java** using **Swing** for the graphical user interface (GUI).
+Unlike traditional console-based versions, this project runs in a separate window for a better gameplay experience.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## ✨ Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* 🎮 **GUI-Based Gameplay** – The game runs in a Swing `JFrame` instead of the terminal.
+* 👤 **Player Names** – Players can enter their names at the start (defaults are **X** and **O** if skipped).
+* 🔄 **Restart Option** – Restart the game after it finishes without restarting the program.
+* 🏆 **Winner Display** – Shows the winner (or a draw) at the end of each game.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🚀 How to Run
 
-## Dependency Management
+1. Clone the repository or download the project files.
+2. Compile the code:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+   ```bash
+   javac TicTacToe.java
+   ```
+3. Run the program:
+
+   ```bash
+   java TicTacToe
+   ```
+
+---
+
+## 🖼️ Preview
+
+### Start Screen
+
+<img width="399" height="187" alt="image" src="https://github.com/user-attachments/assets/005294a0-a5c4-43c7-8a68-8bfa12307081" />
+
+
+### Gameplay
+
+<img width="416" height="415" alt="image" src="https://github.com/user-attachments/assets/3950031d-a49c-42e0-878b-e00b90a2c392" />
+
+### Winner Screen
+
+<img width="434" height="436" alt="image" src="https://github.com/user-attachments/assets/7c4be349-abbf-47e9-8d56-54b5e9af571f" />
+<img width="418" height="421" alt="image" src="https://github.com/user-attachments/assets/9b426174-a6c4-46a1-9309-155699a084b6" />
+
+
+## 🛠️ Tech Stack
+
+* **Language**: Java
+* **GUI Framework**: Swing
+
+---
+
+Enjoy playing! ✨
