@@ -32,6 +32,10 @@ Unlike traditional console-based versions, this project runs in a separate windo
 
 ## 🖼️ Preview
 
+🎥 **Watch the demo video here:**  
+[![Watch on YouTube](https://img.youtube.com/vi/7PNgHFC8IeE/0.jpg)](https://www.youtube.com/watch?v=7PNgHFC8IeE)
+
+
 ### Start Screen
 
 <img width="399" height="187" alt="image" src="https://github.com/user-attachments/assets/005294a0-a5c4-43c7-8a68-8bfa12307081" />
@@ -55,3 +59,4 @@ Unlike traditional console-based versions, this project runs in a separate windo
 ---
 
 Enjoy playing! ✨
+
